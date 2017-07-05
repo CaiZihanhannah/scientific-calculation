@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/gobang.ico</file>
+        <file>image/board.jpg</file>
+        <file>image/white.png</file>
+        <file>image/black.png</file>
+        <file>image/bird.png</file>
+        <file>image/buttonback.jpg</file>
+    </qresource>
+</RCC>
